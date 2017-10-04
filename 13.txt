@@ -6,5 +6,9 @@ teteettetet
 ahgagagjdgag
 =======
 hashashahah
+<<<<<<< HEAD
 aslhasgasgagg
 >>>>>>> 5103e2f77328743fdf56aacfa7d2f2637618cbc3
+=======
+ajksgagdg
+>>>>>>> 60c1a9465ab195d77dc493508e00e1e4b4d5b8fc
