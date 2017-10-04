@@ -1,5 +1,10 @@
 shhahahahahjklas
 klaasashahk
+<<<<<<< HEAD
 ;ashhahhashlha
 teteettetet
 ahgagagjdgag
+=======
+hashashahah
+aslhasgasgagg
+>>>>>>> 5103e2f77328743fdf56aacfa7d2f2637618cbc3
